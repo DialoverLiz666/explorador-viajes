@@ -39,4 +39,4 @@ Actualmente la aplicación separa:
 
 ## Versión actual
 
-v0.3.0 - Renderizado dinámico de destinos obtenidos desde REST Countries.
+v0.4.0 - Búsqueda, filtrado y ordenamiento dinámico de destinos.
